@@ -7,6 +7,9 @@ export default class Test extends Component {
         <div>
             this is test page
         </div>
+        <div>
+            this is normal page
+        </div>
       </div>
     )
   }
