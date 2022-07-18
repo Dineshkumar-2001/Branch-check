@@ -14,6 +14,7 @@ export default class Home extends Component {
         <div>8</div>
         <div>9</div>
         <div>10</div>
+        <div>My name is dinesh</div>
       </div>
     )
   }
